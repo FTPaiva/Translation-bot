@@ -1,0 +1,8 @@
+{
+    "apikey": "oPzHIL8gYP64_jT0XxNkc8uua5_XKkUJ0OG2zLFe0_dT",
+    "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:speech-to-text:us-south:a/2b18803c251e40b8b6f0624c40528f2b:7a0e4830-aa61-454d-9094-0b947efdcfd0:resource-key:dc685cfd-6f79-4c88-831c-fce8ccb4d91f",
+    "iam_apikey_name": "Auto-generated service credentials",
+    "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+    "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/2b18803c251e40b8b6f0624c40528f2b::serviceid:ServiceId-e70bfe0f-02f5-4f20-b834-f4acfb9fd53b",
+    "url": "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/7a0e4830-aa61-454d-9094-0b947efdcfd0"
+  }
